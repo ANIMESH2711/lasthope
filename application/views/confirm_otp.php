@@ -46,7 +46,7 @@
 <div class="container">
 <!-- <br>  <p class="text-center">More bootstrap 4 components on <a href="http://bootstrap-ecommerce.com/"> Bootstrap-ecommerce.com</a></p> -->
 <br>
-<h3 class="text-center"> EZEETUTOERS.COM</H3>
+<h3 class="text-center"> www.besthelp.in ( CORONA HOPELINE ) </H3>
 
 <hr>
 
@@ -101,7 +101,7 @@
 
     <div class="form-group">
     <div >
-        <button  type="submit" class="btn btn-block btn-twitter"> <i class="fa fa-key" aria-hidden="true"></i></i>   Send OTP </button>
+        <button  type="submit" class="btn btn-block btn-twitter"> <i class="fa fa-key" aria-hidden="true"></i></i>  Confirm OTP </button>
         </div> </div> <!-- form-group// -->      
     <!-- <p class="text-center">Have an account? <a href="">Log In</a> </p>                                                                  -->
 </form>

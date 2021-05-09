@@ -175,7 +175,7 @@ $allow_url = array('Logout', 'Auth', 'index','teacherSignup','confirm_otp','dt_S
 		$data['rs'] = $this->lib_model->Select('sent_otp', '*', array('meta' => $data['phone']));
 			
 		if(!empty($data['rs'])){ 
-			$this->session->set_flashdata('category_success', 'Otp Sent Successfully. ' );
+			$this->session->set_flashdata('category_success', 'Otp Sent Successfully. - Sent OTP - ' . $data['rs'][0]->otp );
 			$this->load->view('confirm_otp', $data);
 		}
 		else{
@@ -209,7 +209,7 @@ $allow_url = array('Logout', 'Auth', 'index','teacherSignup','confirm_otp','dt_S
 					$f = array('status' => 1,);
 				$this->lib_model->Update('sent_otp', $f, array('meta' => $phone, 'otp' => $otp));
 				
-				$this->session->set_flashdata('category_success', 'Registered Successfully.');
+				$this->session->set_flashdata('category_success', 'Fill Registration Form .');
 				// $this->load->view('direct_Signup', $data);
 				redirect(base_url('User/dt_Signup/'. base64_encode($phone)));
 				// $this->dt_Signup($phone);	

@@ -46,7 +46,7 @@
 <div class="container">
 <!-- <br>  <p class="text-center">More bootstrap 4 components on <a href="http://bootstrap-ecommerce.com/"> Bootstrap-ecommerce.com</a></p> -->
 <br>
-<h3 class="text-center"> EZEETUTORS.COM</H3>
+<h3 class="text-center"> www.besthelp.in ( CORONA HOPELINE ) </H3>
 
 <hr>
 

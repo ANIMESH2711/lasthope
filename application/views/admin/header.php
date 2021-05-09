@@ -138,7 +138,7 @@
 				<!-- User profile image -->
 				<div class="profile-img"> <img src="<?=base_url('assets/be/images/users/1a.jpg');?>" alt="user" /> </div>
 				<!-- User profile text-->
-				<div class="profile-text"> <a href="#" class="dropdown-toggle u-dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"><?=$_SESSION['name'];?><?=$_SESSION['name'];?><?=$_SESSION['name'];?></a>
+				<div class="profile-text"> <a href="#" class="dropdown-toggle u-dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"><?=$_SESSION['name'];?></a>
 					<div class="dropdown-menu animated flipInY">
 						<a href="#" class="dropdown-item"><i class="ti-user"></i> My Profile</a>
 						<a href="#" class="dropdown-item"><i class="ti-wallet"></i> My Balance</a>

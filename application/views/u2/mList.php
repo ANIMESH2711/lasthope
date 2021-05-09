@@ -14,7 +14,7 @@
 
 		<div class="col-md-5 align-self-center">
 
-			<h3 class="text-themecolor">Old requirement List . </h3>
+			<h3 class="text-themecolor">Old Requirement List . </h3>
 
 		</div>
 
@@ -24,7 +24,7 @@
 
 				<li class="breadcrumb-item"><a href="<?=base_url('Admin/Dashboard');?>">Home</a></li>
 
-				<li class="breadcrumb-item">Old requirement List . </li>
+				<li class="breadcrumb-item">Old Requirement List . </li>
 
 			</ol>
 
