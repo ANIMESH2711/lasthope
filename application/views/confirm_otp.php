@@ -101,7 +101,7 @@
 
     <div class="form-group">
     <div >
-        <button  type="submit" class="btn btn-block btn-twitter"> <i class="fa fa-key" aria-hidden="true"></i></i>  Confirm OTP </button>
+        <button  type="submit" class="btn btn-block btn-twitter"> <i class="fa fa-key" aria-hidden="true"></i></i>  Confirm OTP  </button>
         </div> </div> <!-- form-group// -->      
     <!-- <p class="text-center">Have an account? <a href="">Log In</a> </p>                                                                  -->
 </form>
